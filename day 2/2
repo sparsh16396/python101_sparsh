@@ -1,0 +1,6 @@
+The built-in function dir() is used to find out which names a module defines. It returns a sorted list of strings
+Without arguments, dir() lists the names you have defined currently
+
+>>> dir()
+['__builtins__','__doc__','__loader','__list__','name','__package__','__spec__']
+>>>
